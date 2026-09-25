@@ -1,6 +1,6 @@
 # Piia Alavesa
 
-Lead Designer at Laerdal Medical — Digital Business Unit > DEEP & DCP Designers team.
+Lead Designer at Laerdal Medical — Digital Business Unit.
 
 🚀 **Aspiration:** make "idea → working prototype by Friday" the normal way designers build at Laerdal.
 
