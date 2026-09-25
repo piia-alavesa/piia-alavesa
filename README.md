@@ -2,9 +2,7 @@
 
 Lead Designer at Laerdal Medical — Digital Business Unit.
 
-🚀 **Aspiration:** make "idea → working prototype by Friday" the normal way designers build at Laerdal.
-
-🔗 [dbu-designers-hub](https://github.com/Laerdal-Medical/dbu-designers-hub) — our team's shared space for Git/GitHub, Claude Code, and design resources.
+🚀 **Aspiration:** make "idea → working prototype by Friday" the normal way designers build.
 
 ---
 
